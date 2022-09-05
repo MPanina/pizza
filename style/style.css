@@ -1,0 +1,184 @@
+.main {
+    display: flex;
+    background-color: white;
+}
+
+.header_info {
+    position: absolute;
+    margin-top: 50px;
+    font-family: sans-serif;
+
+}
+
+footer {
+    background-color: #fffb00;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:px;
+    width:100%;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.header_info a {
+    color: #fffb00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.respons {
+    width: 150px;
+    height: 150px;
+}
+
+.content h1, p, h2 {
+    font-family: sans-serif;
+}
+
+.content h1 {
+    color: #fffb00;
+    text-shadow: 
+		-0   -2px 1px #000000,
+		 0   -2px 1px #000000,
+		-0    2px 1px #000000,
+		 0    2px 1px #000000,
+		-2px -0   1px #000000,
+		 2px -0   1px #000000,
+		-2px  0   1px #000000,
+		 2px  0   1px #000000,
+		-1px -2px 1px #000000,
+		 1px -2px 1px #000000,
+		-1px  2px 1px #000000,
+		 1px  2px 1px #000000,
+		-2px -1px 1px #000000,
+		 2px -1px 1px #000000,
+		-2px  1px 1px #000000,
+		 2px  1px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000;
+}
+
+.cont {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.cont .h3, a{
+    text-decoration: none;
+    color: #fffb00;
+    text-shadow: 
+		-0   -2px 1px #000000,
+		 0   -2px 1px #000000,
+		-0    2px 1px #000000,
+		 0    2px 1px #000000,
+		-2px -0   1px #000000,
+		 2px -0   1px #000000,
+		-2px  0   1px #000000,
+		 2px  0   1px #000000,
+		-1px -2px 1px #000000,
+		 1px -2px 1px #000000,
+		-1px  2px 1px #000000,
+		 1px  2px 1px #000000,
+		-2px -1px 1px #000000,
+		 2px -1px 1px #000000,
+		-2px  1px 1px #000000,
+		 2px  1px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000;
+}
+.cont h1, h2, h3 {
+    color: #000000;
+
+}
+
+#block {
+    display: block;
+    padding: 8px 8px;
+}
+
+.bd_cont h2, h3 {
+
+    color: #fffb00;
+    text-shadow: 
+		-0   -2px 1px #000000,
+		 0   -2px 1px #000000,
+		-0    2px 1px #000000,
+		 0    2px 1px #000000,
+		-2px -0   1px #000000,
+		 2px -0   1px #000000,
+		-2px  0   1px #000000,
+		 2px  0   1px #000000,
+		-1px -2px 1px #000000,
+		 1px -2px 1px #000000,
+		-1px  2px 1px #000000,
+		 1px  2px 1px #000000,
+		-2px -1px 1px #000000,
+		 2px -1px 1px #000000,
+		-2px  1px 1px #000000,
+		 2px  1px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000,
+		-2px -2px 1px #000000,
+		 2px -2px 1px #000000,
+		-2px  2px 1px #000000,
+		 2px  2px 1px #000000;
+}
+
+#pizza_block {
+    display: block;
+    padding: 8px 8px;
+    width: 300px;
+    text-align: center;
+}
+.promoBlock {
+
+    display: block;
+    padding: 8px 8px;
+    width: 300px;
+}
+
+#pizza_image {
+    width: 200px;
+    height: 200px;
+}
+
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.menu a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px 20px;
+    background-color: black;
+    border-bottom: 5px solid #fffb00;
+    display: block;
+}
+
+ .content h1 {
+    font-family: sans-serif;
+}
